@@ -1,5 +1,4 @@
 local max = false
-local WebHook_URL = ""
 local player = game:GetService("Players").LocalPlayer.Name
 
 local function bountytext()
@@ -12,7 +11,7 @@ while max == false do
 		print("Max bounty reached")
 
 		local url =
-			"https://discord.com/api/webhooks/882251702051422248/qQiIGbxry7puyewnRgKW-cm7uI0IiTa0Q_EIb61PDKE3MS3xQxnyuQiAMnjSJKc_5mQt"
+			""
 		local data = {
 			["content"] = player.." has reached $50,000 bounty",
 		}

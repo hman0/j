@@ -10,8 +10,6 @@ while max == false do
 	if bountytext() == "Bounty: $50,000" then
 		print("Max bounty reached")
 
-		local url =
-			""
 		local data = {
 			["content"] = player.." has reached $50,000 bounty",
 		}

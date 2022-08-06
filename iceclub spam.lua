@@ -1,6 +1,6 @@
 function IceClub()
     game.ReplicatedStorage.GiveSword:InvokeServer("IceClub", game.Players.LocalPlayer)
-end
+end)
 
 spawn(function()
     IceClub() 

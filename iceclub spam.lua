@@ -5,60 +5,60 @@ end
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
 spawn(function()
     IceClub() 
     iceclub_count = iceclub_count + 1
-end
+end)
